@@ -88,7 +88,7 @@ WHERE title LIKE 'C%' AND length > 90 AND rental_rate = 2.99;
 ~~~
 
 ## HW-4
-#### Soru-1
+#### Soru-1
 * film tablosunda bulunan replacement_cost sütununda bulunan birbirinden farklı değerleri sıralayınız.
 ~~~sql
 SELECT DISTINCT replacement_cost FROM film;
