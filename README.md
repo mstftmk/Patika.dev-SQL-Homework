@@ -1,7 +1,7 @@
 # Patika.dev-SQL-Homework
 Patika.dev Veri Bilimi Patikası SQL ödevleri.
 
-##HW-1
+## HW-1
 #### Soru-1
 * film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 ~~~sql
@@ -35,4 +35,4 @@ WHERE first_name = 'Mary';
 SELECT * FROM film
 WHERE NOT length > 50 AND NOT (rental_rate = 2.99 OR rental_rate = 4.99);
 ~~~
-##HW-2
+## HW-2
