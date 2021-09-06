@@ -1,7 +1,7 @@
 # Patika.dev-SQL-Homework
 Patika.dev Veri Bilimi Patikası SQL ödevleri.
 
-### Soru-1
+#### Soru-1
 * film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 ~~~sql
 SELECT title, description FROM film;
