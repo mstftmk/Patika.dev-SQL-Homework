@@ -1,7 +1,18 @@
 # Patika.dev-SQL-Homework
 Patika.dev Veri Bilimi Patikası SQL ödevleri.
 
-## HW-1
+* <a href='#HW-1'>HW-1</a><br>
+* <a href='#HW-2'>HW-2</a><br>
+* <a href='#HW-3'>HW-3</a><br>
+* <a href='#HW-4'>HW-4</a><br>
+* <a href='#HW-5'>HW-5</a><br>
+* <a href='#HW-6'>HW-6</a><br>
+* <a href='#HW-7'>HW-7</a><br>
+* <a href='#HW-8'>HW-8</a><br>
+* <a href='#HW-9'>HW-9</a><br>
+* <a href='#HW-10'>HW-10</a><br>
+
+## <p id = 'HW-1' > HW-1 </p> 
 #### Soru-1
 * film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 ~~~sql
