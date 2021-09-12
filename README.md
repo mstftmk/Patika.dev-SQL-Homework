@@ -11,7 +11,7 @@ Patika.dev Veri Bilimi Patikası SQL ödevleri.
 * <a href='#HW-8'>HW-8</a><br>
 * <a href='#HW-9'>HW-9</a><br>
 * <a href='#HW-10'>HW-10</a><br>
-* <a href='#HW-11'>HW-10</a><br>
+* <a href='#HW-11'>HW-11</a><br>
 
 ## HW-1
 #### Soru-1
