@@ -12,6 +12,8 @@ Patika.dev Veri Bilimi Patikası SQL ödevleri.
 * <a href='#HW-9'>HW-9</a><br>
 * <a href='#HW-10'>HW-10</a><br>
 * <a href='#HW-11'>HW-11</a><br>
+* <a href='#HW-12'>HW-12</a><br>
+
 
 ## HW-1
 #### Soru-1
@@ -480,7 +482,8 @@ AND replacement_cost =
 SELECT MIN(replacement_cost) FROM film
 );
 ~~~
-#### Soru-4
+
+#### Soru-4
 * payment tablosunda en fazla sayıda alışveriş yapan müşterileri(customer) sıralayınız.
 ~~~sql
 SELECT first_name, last_name FROM customer
